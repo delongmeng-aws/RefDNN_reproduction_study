@@ -159,11 +159,13 @@ Figure 1:
 ![Figure_1](./analysis_output/figure1.png)   
 
 Figure 2:   
-<img src="./analysis_output/figure2_LOCOCV.png" width="100">
+<img src="./analysis_output/figure2_LOCOCV.png" width="600">  
 
 Figure 3:  
-![Figure_3](./analysis_output/figure3_LODOCV.png)   
+<img src="./analysis_output/figure3_LODOCV.png" width="600">  
 
 Figure 4:  
-![Figure_4](./analysis_output/figure4_biomarkers.png)   
+<img src="./analysis_output/figure4_biomarkers.png" width="800">
+
+
 --------------------------------------------------------------------------------------------
