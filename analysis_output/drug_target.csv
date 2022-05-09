@@ -1,0 +1,223 @@
+Drug,Target pathway
+(5Z)-7-Oxozeaenol,"Other, kinases"
+5-Fluorouracil,Other
+A-443654,PI3K/MTOR signaling
+A-770041,"Other, kinases"
+AICA Ribonucleotide,Metabolism
+AKT inhibitor VIII,PI3K/MTOR signaling
+AR-42,Chromatin histone acetylation
+AS601245,JNK and p38 signaling
+AS605240,PI3K/MTOR signaling
+AT-7519,Cell cycle
+AZ628,ERK MAPK signaling
+AZD6482,PI3K/MTOR signaling
+AZD7762,Cell cycle
+AZD8055,PI3K/MTOR signaling
+Afatinib,EGFR signaling
+Alectinib,RTK signaling
+Amuvatinib,"Other, kinases"
+Avagacestat,Other
+Axitinib,RTK signaling
+BAY-61-3606,"Other, kinases"
+BI-2536,Cell cycle
+BIX02189,ERK MAPK signaling
+BMS-345541,"Other, kinases"
+BMS-509744,Other
+BMS-536924,IGFR signaling
+BMS-754807,IGFR signaling
+BX-912,PI3K/MTOR signaling
+BX795,Other
+Belinostat,Chromatin histone acetylation
+Bexarotene,Other
+Bicalutamide,Hormone-related
+Bortezomib,Protein stability and degradation
+Bosutinib,"Other, kinases"
+Bryostatin 1,"Other, kinases"
+CAY10603,Chromatin histone acetylation
+CCT-018159,Protein stability and degradation
+CCT007093,Other
+CGP-082996,Cell cycle
+CGP-60474,Cell cycle
+CHIR-99021,WNT signaling
+CI-1040,ERK MAPK signaling
+CMK,ERK MAPK signaling
+CP466722,Genome integrity
+CP724714,EGFR signaling
+CUDC-101,Other
+CX-5461,Other
+Cabozantinib,"Other, kinases"
+Cetuximab,EGFR signaling
+Cisplatin,DNA replication
+Crizotinib,RTK signaling
+Cytarabine,DNA replication
+DMOG,Metabolism
+Dabrafenib,ERK MAPK signaling
+Dacinostat,Chromatin histone acetylation
+Dactolisib,PI3K/MTOR signaling
+Daporinad,Metabolism
+Dasatinib,Other
+Docetaxel,Mitosis
+Doramapimod,JNK and p38 signaling
+Doxorubicin,DNA replication
+EHT-1864,Cytoskeleton
+Elesclomol,Protein stability and degradation
+Embelin,Apoptosis regulation
+Entinostat,Chromatin histone acetylation
+Enzastaurin,"Other, kinases"
+Epothilone B,Mitosis
+Erlotinib,EGFR signaling
+Etoposide,DNA replication
+FH535,WNT signaling
+FR-180204,ERK MAPK signaling
+FTI-277,Other
+Fedratinib,"Other, kinases"
+Foretinib,RTK signaling
+GNF-2,ABL signaling
+GSK1070916,Mitosis
+GSK1904529A,IGFR signaling
+GSK269962A,Cytoskeleton
+GSK319347A,Other
+GSK429286A,Cytoskeleton
+GSK650394,Other
+GSK690693,PI3K/MTOR signaling
+GW-2580,RTK signaling
+GW441756,RTK signaling
+GW843682X,Cell cycle
+Gefitinib,EGFR signaling
+Gemcitabine,DNA replication
+HG6-64-1,ERK MAPK signaling
+I-BET-762,Chromatin other
+IOX2,Other
+IPA-3,Cytoskeleton
+Idelalisib,PI3K/MTOR signaling
+Imatinib,RTK signaling
+Ispinesib Mesylate,Mitosis
+JNK Inhibitor VIII,JNK and p38 signaling
+JNK-9L,JNK and p38 signaling
+JQ1,Chromatin other
+JW-7-52-1,PI3K/MTOR signaling
+KIN001-244,"Other, kinases"
+KIN001-260,Other
+KIN001-266,"Other, kinases"
+KIN001-270,Cell cycle
+KU-55933,Genome integrity
+LFM-A13,"Other, kinases"
+Lapatinib,EGFR signaling
+Lenalidomide,Protein stability and degradation
+Lestaurtinib,"Other, kinases"
+Linifanib,RTK signaling
+Linsitinib,IGFR signaling
+Luminespib,Protein stability and degradation
+MG-132,Protein stability and degradation
+MK-2206,PI3K/MTOR signaling
+MPS-1-IN-1,Mitosis
+Masitinib,"Other, kinases"
+Methotrexate,DNA replication
+Mitomycin-C,DNA replication
+Motesanib,RTK signaling
+NG-25,"Other, kinases"
+NSC-207895,p53 pathway
+NSC-87877,Other
+NU7441,Genome integrity
+NVP-BHG712,Other
+NVP-TAE684,RTK signaling
+Navitoclax,Apoptosis regulation
+Nilotinib,ABL signaling
+Nutlin-3a (-),p53 pathway
+OSI-027,PI3K/MTOR signaling
+OSI-930,RTK signaling
+OSU-03012,"Other, kinases"
+Obatoclax Mesylate,Apoptosis regulation
+Olaparib,Genome integrity
+Omipalisib,PI3K/MTOR signaling
+PAC-1,Apoptosis regulation
+PD0325901,ERK MAPK signaling
+PD173074,RTK signaling
+PF-4708671,PI3K/MTOR signaling
+PF-562271,Cytoskeleton
+PFI-1,Chromatin other
+PFI-3,Other
+PHA-665752,RTK signaling
+PHA-793887,Cell cycle
+PI-103,PI3K/MTOR signaling
+PIK-93,PI3K/MTOR signaling
+PLX-4720,ERK MAPK signaling
+Paclitaxel,Mitosis
+Palbociclib,Cell cycle
+Parthenolide,Chromatin histone acetylation
+Pazopanib,RTK signaling
+Pelitinib,EGFR signaling
+Pevonedistat,Other
+Phenformin,Other
+Pictilisib,PI3K/MTOR signaling
+Piperlongumine,Other
+Ponatinib,RTK signaling
+Pyrimethamine,Other
+QS11,Other
+Quizartinib,RTK signaling
+RO-3306,Cell cycle
+Rapamycin,PI3K/MTOR signaling
+Refametinib,ERK MAPK signaling
+Rucaparib,Genome integrity
+Ruxolitinib,"Other, kinases"
+S-Trityl-L-cysteine,Mitosis
+SB216763,WNT signaling
+SB505124,RTK signaling
+SB52334,RTK signaling
+SB590885,ERK MAPK signaling
+SGC0946,Chromatin histone methylation
+SL0101,Other
+SN-38,DNA replication
+SNX-2112,Protein stability and degradation
+STF-62247,Other
+Salubrinal,Other
+Saracatinib,RTK signaling
+Seliciclib,Cell cycle
+Selisistat,Chromatin histone acetylation
+Selumetinib,ERK MAPK signaling
+Sepantronium bromide,Apoptosis regulation
+Serdemetan,p53 pathway
+Shikonin,Other
+Sorafenib,RTK signaling
+Sunitinib,RTK signaling
+T0901317,Other
+TAK-715,JNK and p38 signaling
+TGX221,PI3K/MTOR signaling
+TPCA-1,"Other, kinases"
+TW 37,Apoptosis regulation
+Talazoparib,Genome integrity
+Tamoxifen,Hormone-related
+Tanespimycin,Protein stability and degradation
+Temozolomide,DNA replication
+Temsirolimus,PI3K/MTOR signaling
+Thapsigargin,Other
+Tipifarnib,Other
+Tivozanib,RTK signaling
+Tozasertib,Mitosis
+Trametinib,ERK MAPK signaling
+Tretinoin,Other
+Tubastatin A,Chromatin histone acetylation
+UNC0638,Chromatin histone methylation
+UNC1215,Chromatin other
+VNLG-124,-
+VX-11e,ERK MAPK signaling
+VX-702,JNK and p38 signaling
+Veliparib,Genome integrity
+Vinblastine,Mitosis
+Vinorelbine,Mitosis
+Vismodegib,Other
+Vorinostat,Chromatin histone acetylation
+WH-4-023,"Other, kinases"
+WHI-P97,"Other, kinases"
+WZ-1-84,"Other, kinases"
+Wee1 Inhibitor,Cell cycle
+XAV939,WNT signaling
+XMD8-85,Other
+XMD8-92,"Other, kinases"
+Y-39983,Cytoskeleton
+YK-4-279,Other
+YM201636,Other
+Z-LLNle-CHO,Other
+ZM447439,Mitosis
+ZSTK474,PI3K/MTOR signaling
+Zibotentan,Other
