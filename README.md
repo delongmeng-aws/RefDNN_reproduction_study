@@ -12,7 +12,7 @@ Link to the repo: https://github.com/mathcom/RefDNN
 
 
 ![RefRNN_architecture](./assets/RefRNN_architecture.png)  
-(Modified based on Figure 6 in the original paper)
+(*Note: This illustration is modified based on Figure 6 in the original paper*)
 
 The RefDNN project aims to predict cancer drug resistance and proposed a “reference drug” based neural network architecture. The task is to build a classifier to predict whether a cancer cell line is sensitive or resistant to a certain drug. The key idea of this work is to use a set of drugs (so-called “reference drug”) to learn the representations of cell lines based on gene expression and drugs by their molecular structure.
 
@@ -130,7 +130,7 @@ The corresponding output files from these commands can be found in the `output_r
 All of the results were analyzed using Jupyter notebooks, including data wrangling and cleaning, statistical tests, and data visualization. These scripts are also kept in the `notebook` directory:
 
 - `results_fig_1_performance_comparison.ipynb`  
-- `results_fig_2_Leave_One_Cell_Out.ipynb`  
+- `results_fig_2_Leave_One_Cancer_type_Out.ipynb`  
 - `results_fig_3_Leave_One_Drug_Out.ipynb`  
 - `results_fig_4_biomarkers.ipynb`  
 
@@ -158,8 +158,8 @@ More detailed explanation of these results can be found in the final report.
 Figure 1:  
 ![Figure_1](./analysis_output/figure1.png)   
 
-Figure 2:  
-![Figure_2](./analysis_output/figure2_LOCOCV.png)   
+Figure 2:   
+<img src="./analysis_output/figure2_LOCOCV.png" width="100">
 
 Figure 3:  
 ![Figure_3](./analysis_output/figure3_LODOCV.png)   
