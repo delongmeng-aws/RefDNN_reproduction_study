@@ -5,6 +5,8 @@
 
 This repo is a deep learning reproduction study based on the original publication and repo of the RefDNN model.  
 
+My reproduction study report can be found here: https://github.com/delongmeng-aws/RefDNN_reproduction_study/blob/master/report.pdf
+
 The publication: *Choi, Jonghwan, et al. "RefDNN: a reference drug based neural network for more accurate prediction of anticancer drug resistance." Scientific Reports 10 (2020):1-11*.  
 
 Link to the publication: https://www.nature.com/articles/s41598-020-58821-x  
@@ -153,7 +155,7 @@ All of the analysis output files are available in the `analysis_output` director
 --------------------------------------------------------------------------------------------
 ## RESULTS
 
-More detailed explanation of these results can be found in the final report.
+More detailed explanation of these results can be found in the final report: https://github.com/delongmeng-aws/RefDNN_reproduction_study/blob/master/report.pdf
 
 Figure 1:  
 ![Figure_1](./analysis_output/figure1.png)   
@@ -169,3 +171,4 @@ Figure 4:
 
 
 --------------------------------------------------------------------------------------------
+
